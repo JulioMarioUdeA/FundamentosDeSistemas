@@ -1,0 +1,6 @@
+recuerde que el lab json son 3 puntos en dos proyectos diferentes.
+punto 1 y 2:TallerJson
+punto 3: TallerJsonPunto3
+
+el punto 1 fue sobreescrito por el punto dos en el cual había
+que cambiar el xml.
